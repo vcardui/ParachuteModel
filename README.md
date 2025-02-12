@@ -1,4 +1,4 @@
-# ParachuteModel
+# 🪂 Parachute Model
 
 El presente programa implementa un modelo desarrollado en clase para evaluar la velocidad de un paracaidista que se deja caer de un punto fijo, suponiendo que la resistencia del viento es linealmente proporcional a la velocidad y actúa hacia arriba.
 
