@@ -15,7 +15,7 @@ Calculate de parachutist’s velocity based on the **exact model**
 Calculate de parachutist’s velocity based on the **approximate model** 
 <img width="550" alt="ParachuteModel_approximate" src="https://github.com/user-attachments/assets/ad58cd52-2f1f-4746-ba2c-95fc80d1510b" />
 
-Compare the approximate model against the exact one.
+**Compare** the approximate model against the exact one.
 <img width="550" alt="ParachuteModel_comparison" src="https://github.com/user-attachments/assets/52b3ad86-f715-4bb9-b573-988d20f68bc4" />
 
 Salida del programa
@@ -54,12 +54,7 @@ $v$: Speed [$\frac{m}{s}$]
 
 $t$: Time [s]
 
-<aside>
-🎢
-
-*The rate of change in respect to time to the velocity is proportionally direct to the force rate the air exerted to the object.*
-
-</aside>
+> 🎢 *The rate of change in respect to time to the velocity is proportionally direct to the force rate the air exerted to the object.*
 
 The following differential equation was built in class aiming to model exactly the parachutist velocity at any given moment in time:
 
