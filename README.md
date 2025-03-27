@@ -44,15 +44,15 @@ $$
 
 Where:
 
-$m$: Mass [kg]
+$m$: Mass kg
 
-$g$: Gravity = 9.81 [$\frac{m}{s^{2}}$]
+$g$: Gravity = 9.81 $\frac{m}{s^{2}}$
 
-$c$: Air resistance constraint [N]
+$c$: Air resistance constraint N
 
-$v$: Speed [$\frac{m}{s}$]
+$v$: Speed $\frac{m}{s}$
 
-$t$: Time [s]
+$t$: Time s
 
 > 🎢 *The rate of change in respect to time to the velocity is proportionally direct to the force rate the air exerted to the object.*
 
@@ -64,15 +64,15 @@ $$
 
 Where:
 
-$v$: Speed [$\frac{m}{s}$]
+$v$: Speed $\frac{m}{s}$
 
-$t$: Time [s]
+$t$: Time s
 
-$g$: Gravity = 9.81 [$\frac{m}{s^{2}}$]
+$g$: Gravity = 9.81 $\frac{m}{s^{2}}$
 
-$m$: Mass [kg]
+$m$: Mass kg
 
-$c$: Air resistance constraint [N]
+$c$: Air resistance constraint N
 
 An approximate model was built as well to test how much does a non-differential equational approach differs from the exact real values. This model is a recursive function that obtains the velocity at a certain moment in time based on obtaining the previous x velocities with a given step.
 
@@ -82,16 +82,16 @@ $$
 
 Where:
 
-$v$: Speed [$\frac{m}{s}$]
+$v$: Speed $\frac{m}{s}$
 
-$t$: Time [s]
+$t$: Time s
 
 $i$: current iteration
 
-$g$: Gravity = 9.81 [$\frac{m}{s^{2}}$]
+$g$: Gravity = 9.81 $\frac{m}{s^{2}}$
 
-$m$: Mass [kg]
+$m$: Mass kg
 
-$c$: Air resistance constraint [N]
+$c$: Air resistance constraint N
 
 It is known that for both models the velocity at time 0 is equal to 0 ($v(0) = 0$).
