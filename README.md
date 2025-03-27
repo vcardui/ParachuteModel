@@ -27,11 +27,6 @@ Salida del programa
 - Altogether, this activity ***showed me how real-life physical behavior can be accurately modeled with programming***. From understanding the physics involved in the problem, the process required to generate a mathematical model, the pros and cons of the different models we can create, the implementation challenges and finally the models’s results comparison.
 
 ## 💡 Inspiration for creating this project
-
-This was one of the tasks I did for my Computing Languages II college course final project. In my project, I had to present along with my teammates the topic "CSV files" in C#. I did this program as an example excercice for the presentation.
-
-I wanted to make a real life example of the CSV's capabilities, so I came up with the idea of a Movie Ticket Store after catching myself looking at my local movie theater schedule for watching a movie.
-
 This program was an activity carried out in my Scientific Programming college course
 
 ## 👀 About the project
